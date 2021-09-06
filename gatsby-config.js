@@ -3,4 +3,5 @@ module.exports = {
     title: "info",
   },
   plugins: [],
+  pathPrefix: "/info",
 };
